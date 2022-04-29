@@ -1,0 +1,23 @@
+img {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#tabla-info {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+thead {
+  margin: 100px;
+  padding: 100px;
+}
+
+#tabla-principal {
+  border-color: green;
+}
